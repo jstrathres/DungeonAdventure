@@ -1,0 +1,15 @@
+C:\Users\jstra\source\repos\OOPAdventure\OOPAdventure\bin\Debug\net6.0\Josh'sOOPDungeon.exe
+C:\Users\jstra\source\repos\OOPAdventure\OOPAdventure\bin\Debug\net6.0\Josh'sOOPDungeon.deps.json
+C:\Users\jstra\source\repos\OOPAdventure\OOPAdventure\bin\Debug\net6.0\Josh'sOOPDungeon.runtimeconfig.json
+C:\Users\jstra\source\repos\OOPAdventure\OOPAdventure\bin\Debug\net6.0\Josh'sOOPDungeon.dll
+C:\Users\jstra\source\repos\OOPAdventure\OOPAdventure\bin\Debug\net6.0\Josh'sOOPDungeon.pdb
+C:\Users\jstra\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net6.0\Josh'sOOPDungeon.csproj.AssemblyReference.cache
+C:\Users\jstra\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net6.0\Josh'sOOPDungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jstra\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net6.0\Josh'sOOPDungeon.AssemblyInfoInputs.cache
+C:\Users\jstra\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net6.0\Josh'sOOPDungeon.AssemblyInfo.cs
+C:\Users\jstra\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net6.0\Josh'sOOPDungeon.csproj.CoreCompileInputs.cache
+C:\Users\jstra\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net6.0\Josh'sOOPDungeon.dll
+C:\Users\jstra\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net6.0\refint\Josh'sOOPDungeon.dll
+C:\Users\jstra\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net6.0\Josh'sOOPDungeon.pdb
+C:\Users\jstra\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net6.0\Josh'sOOPDungeon.genruntimeconfig.cache
+C:\Users\jstra\source\repos\OOPAdventure\OOPAdventure\obj\Debug\net6.0\ref\Josh'sOOPDungeon.dll
