@@ -4,15 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOPAdventure.Actions
-{
-    public abstract class Action
-    {
-        public virtual string Name => "";
+namespace OOPAdventure;
 
-        public virtual void Execute(string[] args) 
-        {
-            throw new Exception("Nothing to execute!");
-        }
+public abstract class Action
+{
+    public virtual string Name => "";
+
+    public virtual void Execute(string[] args) 
+    {
+        throw new Exception("Nothing to execute!");
     }
 }

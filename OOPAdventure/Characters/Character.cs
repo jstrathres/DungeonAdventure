@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOPAdventure
+namespace OOPAdventure;
+
+public class Character
 {
-    public class Character
+    public string Name { get; set; }
+    public Character(string name)
     {
-        public string Name { get; set; }
-        public Character(string name)
-        {
-          Name= name;
-        }
+      Name= name;
     }
 }

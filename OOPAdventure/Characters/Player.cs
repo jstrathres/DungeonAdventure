@@ -5,13 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 using OOPAdventure;
 
-namespace Characters
-{
-    public class Player : Character
-    {
-        public Player(string name) : base(name)
-        {
+namespace OOPAdventure;
 
-        }
+public class Player : Character
+{
+    public Player(string name) : base(name)
+    {
+
     }
 }
